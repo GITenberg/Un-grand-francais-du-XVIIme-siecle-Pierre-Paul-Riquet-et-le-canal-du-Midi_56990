@@ -1,0 +1,24 @@
+_repo: Un-grand-francais-du-XVIIme-siecle-Pierre-Paul-Riquet-et-le-canal-du-Midi_56990
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fernay, Jacques
+    gutenberg_agent_id: '49127'
+    url: http://www.gutenberg.org/2009/agents/49127
+description: ''
+gutenberg_bookshelf:
+- FR Sciences et Techniques
+- FR Nouveautés
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2018-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56990'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Un grand français du XVIIme siècle : Pierre Paul Riquet et le canal du Midi'
+url: http://www.gutenberg.org/ebooks/56990
